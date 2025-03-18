@@ -1,4 +1,4 @@
-Okay, let's outline a complex Informatica IICS project for Sales Analytics using PostgreSQL as both source and target. This will be a multi-step process, starting with requirements, then data modeling, DDL, diagrams, pseudocode, and finally, a breakdown of the IICS mapping and workflow.  This is a substantial undertaking, so we'll focus on a core set of functionalities.
+# Informatica IICS project for Sales Analytics using PostgreSQL as both source and target
 
 **Phase 1: Requirements & Scope**
 
